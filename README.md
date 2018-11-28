@@ -19,8 +19,8 @@ This is personal repository to algorithm
 ## Greedy Algorithms
 -
 ## Shortest Paths
-### Dijkstra’s algorithm
-### The Floyd-Warshall algorithm
+- Dijkstra’s algorithm
+- The Floyd-Warshall algorithm
 
 ## Etc
 - bitmask
