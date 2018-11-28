@@ -2,23 +2,22 @@ This is personal repository to algorithm
 
 # Basic Algorithm
 ## Sort
-### heap sort
-### quict sort
-### merge sort
+- heap sort
+- quict sort
+- merge sort
 ## Data Sructure
-### Stack
-### Queue
-### Linked List
-### Graph
+- Stack
+- Queue
+- Linked List
+- Graph
 ## Search
-### DFS
-### BFS
+- DFS
+- BFS
 ## Dynamic Programming
-###
-###
-
+-
+-
 ## Etc
-### bitmask
-### string
+- bitmask
+- string
 
 
