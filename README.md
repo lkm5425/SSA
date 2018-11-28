@@ -1,4 +1,4 @@
-This is personal repository to algorithm 
+ This is personal repository to algorithm 
 
 # Basic Algorithm
 ## Sort
@@ -14,7 +14,7 @@ This is personal repository to algorithm
 - DFS
 - BFS
 ## Dynamic Programming
--
+-ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ
 -
 ## Etc
 - bitmask
