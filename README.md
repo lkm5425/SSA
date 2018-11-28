@@ -21,6 +21,6 @@ This is personal repository to algorithm
 - string
 
 <hr/>
-# Links
 
+# Links
 - [BOJ](https://www.acmicpc.net/)
