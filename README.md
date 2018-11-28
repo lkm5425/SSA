@@ -13,15 +13,21 @@ This is personal repository to algorithm
 ## Search
 - DFS
 - BFS
+- Binary Search
 ## Dynamic Programming
+
+## Greedy Algorithms
 -
--
+## Shortest Paths
+### Dijkstra’s algorithm
+### The Floyd-Warshall algorithm
+
 ## Etc
 - bitmask
-- string
+- String Matching
 
 <hr/>
 
 # Links
-- [Introduction](https://labs.xjtudlc.com/labs/wldmt/reading%20list/books/Algorithms%20and%20optimization/Introduction%20to%20Algorithms.pdf){:target="_blank"}
-- [BOJ](https://www.acmicpc.net/ " target="_blank)
+- [Introduction](https://labs.xjtudlc.com/labs/wldmt/reading%20list/books/Algorithms%20and%20optimization/Introduction%20to%20Algorithms.pdf)
+- [BOJ](https://www.acmicpc.net/)
