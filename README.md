@@ -20,5 +20,6 @@ This is personal repository to algorithm
 - bitmask
 - string
 
-
-BOJ:(https://www.acmicpc.net/)
+<hr/>
+# Links
+[BOJ](https://www.acmicpc.net/)
